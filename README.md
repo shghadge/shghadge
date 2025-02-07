@@ -1,7 +1,8 @@
 ## Hello there 👋
 
 I'm a Backend Engineer with 5 years of professional experience in developing Cloud Native applications. </br>
-Ex Software Engineer @ [GSLab](https://www.gslab.com/).
+Ex Software Engineer @ [GSLab](https://www.gslab.com/). <br>
+Currently pursuing a Master's in Computer Science @ CSUS
 
 - 🔭 I’m currently working on a Rust project
 - 🌱 I’m currently learning Rust
