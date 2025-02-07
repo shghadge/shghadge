@@ -6,6 +6,6 @@ Ex Software Engineer @ [GSLab](https://www.gslab.com/).
 - 🔭 I’m currently working on a Rust project
 - 🌱 I’m currently learning Rust
 
-⚙️ I use daily: .go, .python, mongodb, postgresql, docker, kubernetes
-🌍 I'm mostly active within the Go community.
-💬 Ping me anytime about development, brainstorming ideas, or just to have fun :)
+⚙️ I use daily: .go, .python, mongodb, postgresql, docker, kubernetes </br>
+🌍 I'm mostly active within the Go community. </br>
+💬 Ping me anytime about development, brainstorming ideas, or just to have fun :) </br>
