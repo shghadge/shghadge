@@ -1,14 +1,16 @@
 ## Hello there 👋
 
 ```
-I'm a Backend Engineer with 5 years of professional experience in developing Cloud Native applications.
+I'm a Backend Engineer with 5+ years of professional experience in developing scalable systems.
 Ex Software Engineer @ GSLab
-Currently pursuing a Master's in Computer Science @ CSUS
 
-- 🔭 I’m currently working on a Rust project
-- 🌱 I’m currently learning Rust
+Currently:
+- 🎓 pursuing a Master's in Computer Science @ CSUS
+- 🖥️ working as a Software Engineer Intern @ Office of Water Programs
 
-- ⚙️ I use daily: .go, .python, mongodb, postgresql, docker, kubernetes 
-- 🌍 I'm mostly active within the Go community.
-- 💬 Ping me anytime about development, brainstorming ideas, or just to have fun :)
+- 🔭 building privacy-preserving AI tools and developing a small OS in Rust
+- 🌱 building Model Context Protocol servers for LLM integrations
+
+⚙️ I use daily: .go, .python, .mongodb, .mysql, .docker, .kubernetes
+💬 Ping me anytime about development, brainstorming ideas, or just to have fun :)
 ```
